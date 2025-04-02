@@ -1,5 +1,6 @@
-I'm Allison, a current junior at USC studying an integrated degree in CS, design, and business. 
+Currently:
+- studying an integrated degree in CS, design, and business at USC
+- exploring UX patterns for observing, steering, and interacting with large language models
+- wrangling Cursor as you can see
 
-I'm using GitHub to document my progress with machine learning and "composing" software. 
-
-You can find more information about me at [acyhuang.com](https://www.acyhuang.com/). Thanks for stopping by!
+You can find (slightly) more information about me at [acyhuang.com](https://www.acyhuang.com/). Thanks for stopping by!
